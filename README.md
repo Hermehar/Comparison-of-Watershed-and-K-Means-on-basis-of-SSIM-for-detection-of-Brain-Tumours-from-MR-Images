@@ -3,3 +3,5 @@ We have written the code in python3.0 using the openCV and NumPy modules.
 This paper delves deeper into the watershed segmentation technique, k-means segmentation technique and SSIM.
 This study has found the  SSIM of 0.8762 between the ground truth and waterhsed segmented images. And the SSIM between K-Means segmented image and Ground Truth image was found to be 0.7964.
 SSIM between the K-Menas and Watershed segmented images was found to be 0.8548.
+
+Conference Paper published and DOI: 10.1201/9781003561651-4
