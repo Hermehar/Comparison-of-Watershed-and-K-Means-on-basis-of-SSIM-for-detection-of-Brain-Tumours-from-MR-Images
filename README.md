@@ -175,11 +175,11 @@ Published in:
 ## Citation
 
 ```bibtex
-@incollection{bedi2025watershed,
+@incollection{bedi2024watershed,
   title={Comparison of Watershed and K-means on basis of SSIM for detection of brain tumours from MR images},
   author={Bedi, Hermehar P. S. and Singh, Gulchetan and Sachdeva, Gehna},
   booktitle={Computational Methods in Science and Technology},
-  year={2025}
+  year={2024}
 }
 ```
 
